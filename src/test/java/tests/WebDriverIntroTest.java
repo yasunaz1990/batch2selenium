@@ -41,6 +41,5 @@ public class WebDriverIntroTest {
 
         chrome.close();           // closes the chrome browser window
         chrome.quit();
-
     }
 }
